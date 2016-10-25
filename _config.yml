@@ -1,0 +1,13 @@
+url: http://yihui.name/great-waterfall
+
+author: 谢益辉
+email: xie@yihui.name
+
+disqus_shortname:
+github_repo: yihui/great-waterfall
+
+google_analytics:
+
+markdown: kramdown
+permalink: /:year/:month/:title/
+highlighter: rouge

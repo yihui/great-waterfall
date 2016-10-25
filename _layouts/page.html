@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<section class="post">
+{{ content }}
+</section>
+{% if page.comments %}
+{% include comments.md %}
+{% include github_issues_comments.md %}
+{% endif %}
